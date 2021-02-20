@@ -1,0 +1,28 @@
+{
+	"employees": [{
+			"firstname": "Saidatta",
+			"age": 24,
+			"mail": "saidatta.10@gmail.com"
+		},
+		{
+			"firstname": "Khushboo",
+			"age": 24,
+			"mail": "khushboo.10@gmail.com"
+		},
+		{
+			"firstname": "Mishra",
+			"age": 24,
+			"mail": "mishra.10@gmail.com"
+		},
+		{
+			"firstname": "Arjun",
+			"age": 24,
+			"mail": "arjun.10@gmail.com"
+		},
+		{
+			"firstname": "Natasha",
+			"age": 24,
+			"mail": "natasha.11@gmail.com"
+		}
+	]
+}
